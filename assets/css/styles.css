@@ -17,7 +17,7 @@
       -> Choose any color 
       -> click on tab (Color Conversion)
       -> Copy the color mode (HSL)
-  */
+  
   --hue: 39;
   --first-color: hsl(var(--hue), 100%, 40%);
   --first-color-alt: hsl(var(--hue), 56%, 35%);
@@ -25,6 +25,14 @@
   --text-color: hsl(228, 8%, 65%);
   --body-color: hsl(228, 15%, 20%);
   --container-color: hsl(228, 15%, 15%);
+  */
+  /* ==== MY COLORS */
+  --first-color:#3e4245;
+  --first-color-alt:#919396;
+  --title-color:  #ffffff;
+  --text-color:#000000;
+  --body-color:#80788d;
+  --container-color: #c9c2c4;
   /*========== Font and typography ==========*/
   /*.5rem = 8px | 1rem = 16px ...*/
   --body-font: "Poppins", sans-serif;
