@@ -1,4 +1,4 @@
 # Hello Everyone, 👋
-## This is my portfolio wbsites code.
+## This is my portfolio wEbsites code.
 - HTML, CSS, JS
-![preview img](/preview.png)
+templete credit : @Bedimcode
