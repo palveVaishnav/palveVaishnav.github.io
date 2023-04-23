@@ -6,33 +6,23 @@
   --header-height: 3.5rem;
 
   /*========== Colors ==========*/
-  /*Color mode HSL(hue, saturation, lightness)*/
-  /* 
-      Change favorite color
-      Default: hsl(162, 100%, 40%)
-      Orange: hsl(14, 100%, 65%) - Blue: hsl(210, 100%, 70%)
-      Pink: hsl(356, 100%, 75%) - Purple: hsl(250, 100%, 75%)
-
-      For more colors visit: https://colors.dopely.top/color-pedia
-      -> Choose any color 
-      -> click on tab (Color Conversion)
-      -> Copy the color mode (HSL)
-  
-  --hue: 39;
-  --first-color: hsl(var(--hue), 100%, 40%);
-  --first-color-alt: hsl(var(--hue), 56%, 35%);
-  --title-color: hsl(228, 8%, 95%);
-  --text-color: hsl(228, 8%, 65%);
-  --body-color: hsl(228, 15%, 20%);
-  --container-color: hsl(228, 15%, 15%);
-  */
   /* ==== MY COLORS 1*/
-  --first-color:#3e4245;
+/*   --first-color:#3e4245;
   --first-color-alt:#919396;
   --title-color:  #ffffff;
   --text-color:#000000;
   --body-color:#80788d;
+  --container-color: #c9c2c4; */
+  
+  /* My colors -02  */
+  --first-color:#3e4245;
+  --first-color-alt:#919396;
+  --title-color:  #000000;
+  --text-color:#3e4245;
+  --body-color:#80788d;
   --container-color: #c9c2c4;
+  
+  
   /*========== Font and typography ==========*/
   /*.5rem = 8px | 1rem = 16px ...*/
   --body-font: "Poppins", sans-serif;
