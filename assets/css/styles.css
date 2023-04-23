@@ -26,7 +26,7 @@
   --body-color: hsl(228, 15%, 20%);
   --container-color: hsl(228, 15%, 15%);
   */
-  /* ==== MY COLORS */
+  /* ==== MY COLORS 1*/
   --first-color:#3e4245;
   --first-color-alt:#919396;
   --title-color:  #ffffff;
@@ -157,6 +157,20 @@ svg {
 
 .main {
   overflow: hidden; /* For animation ScrollReveal */
+}
+
+/*=============== BUTTON ===============*/
+.button{
+  display: inline-block;
+  background-color: var(--first-color);
+  padding:1rem 1.75rem;
+  border-radius:.5rem;
+  color:#ffffff;
+  font-weight:var(--font-medium);
+  transition: transform .2s;
+}
+.button:hover{
+  transform: scale(1.1);
 }
 
 /*=============== HEADER & NAV ===============*/
@@ -315,20 +329,6 @@ svg {
 .home__img{
   width: 1500px;
   transform:translateX(-400px);
-}
-
-/*=============== BUTTON ===============*/
-.button{
-  display: inline-block;
-  background-color: var(--first-color);
-  padding:1rem 1.75rem;
-  border-radius:.5rem;
-  color:var(--title-color);
-  font-weight:var(--font-medium);
-  transition: box-shodow .4s;
-}
-.button:hover{
-  box-shadow: 0 8px 24px hsla(var(--hue), 100%, 40%, .25);
 }
 
 /*=============== ABOUT ===============*/
