@@ -158,6 +158,7 @@ svg {
   color:#ffffff;
   font-weight:var(--font-medium);
   transition: transform .2s;
+  margin-bottom:.8rem;
 }
 .button:hover{
   transform: scale(1.1);
@@ -204,8 +205,8 @@ svg {
     width: 75%;
     height: 100%;
     padding: 4.5rem 0 0 3rem;
-    backdrop-filter: blur(19px);
-    --webkit-backdorp-filter: blur(54px);
+    backdrop-filter: blur(29px);
+    --webkit-backdorp-filter: blur(24px);
     transition: right .4s;
   }
 }
