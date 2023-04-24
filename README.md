@@ -4,4 +4,4 @@
 - icons : remix icons
 - contact form : emailjs.com
 - animation : scrollreveal (haven't applied yet)
-### Thank you -@Bedimcode ,learned a lot
+###### Thank you -@Bedimcode ,learned a lot
