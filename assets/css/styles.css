@@ -15,12 +15,20 @@
   --container-color: #c9c2c4; */
   
   /* My colors -02  */
-  --first-color:#3e4245;
+/*   --first-color:#3e4245;
   --first-color-alt:#919396;
   --title-color:  #000000;
   --text-color:#3e4245;
   --body-color:#80788d;
-  --container-color: #c9c2c4;
+  --container-color: #c9c2c4; */
+  
+/*  COlors -03  */
+  --first-color: #ffa028;;
+  --first-color-alt: #f1870000;
+  --title-color: #ffffff;
+  --text-color: #edd6b9;
+  --body-color: #383635e8;
+  --container-color: #272626;
   
   
   /*========== Font and typography ==========*/
@@ -152,7 +160,7 @@ svg {
 /*=============== BUTTON ===============*/
 .button{
   display: inline-block;
-  background-color: var(--first-color);
+  background-color: #da861b;
   padding:1rem 1.75rem;
   border-radius:.5rem;
   color:#ffffff;
